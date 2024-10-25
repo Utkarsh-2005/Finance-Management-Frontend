@@ -34,9 +34,10 @@
     margin-top: -20vh;
 
     .description {
-        font-size: 15px;
-        color: rgb(255, 255, 255);
-        width: 15%;
+        font-size: 13px;
+        color: rgb(140, 140, 140);
+        width: 20%;
+        padding-top: 10px;
     }
 
     .goButton {
