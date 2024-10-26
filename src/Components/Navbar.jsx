@@ -41,9 +41,9 @@ const Navbar = () => {
         <li>
           <a href="/core">Dashboard</a>
         </li>
-        <li>
+        {/* <li>
           <a href="trust">Our Trusters</a>
-        </li>
+        </li> */}
         <li>
           <a href="/aboutus">About Us</a>
         </li>
